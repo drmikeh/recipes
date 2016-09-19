@@ -11,3 +11,9 @@
 ## Crock Pot Recipes
 
 * [Slow Cooker Chicken](crock-pot-recipes/slow-cooker-chicken.md)
+
+
+<details>
+<summary>How would you explain the difference in the result?</summary>
+`.each` returns the original array on which it was performed. `.map` returns a new array with the changes in the block applied to each element.
+</details>
