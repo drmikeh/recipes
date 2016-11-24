@@ -16,6 +16,7 @@
 
 * [Cashew Nut Chicken](dinner/cashew-nut-chicken.md)
 * [Chili Rubbed Steak](dinner/chili-rubbed-steak-tacos.md)
+* [Restaurant Grade Steak](dinner/restaurant-grade-steak.md)
 * [Shrimp Scampi](dinner/shrimp-scampi.md)
 
 ## Grilling
