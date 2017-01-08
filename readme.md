@@ -39,6 +39,14 @@
 
 * [Awesome Salad](salad/awesome-salad.md)
 
+## Sous Vide
+
+* [Rib Roast](sous-vide/rib-roast.md)
+
 ## Smoothies
 
 * [Fruit and Veggie](smoothies/fruit-and-veggie.md)
+
+## Stove top
+
+* [Corn-on-the-Cob](stove-top/corn-on-the-cob.md)

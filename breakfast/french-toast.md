@@ -7,3 +7,4 @@
 5. add butter to skillet
 6. after butter is melted, dip a slice of bread into the mixture and place in the skillet
 7. cook for 4 minutes, flip and cook for another 4 minutes
+8. Keep warm in toaster oven or regular oven until ready to serve.
