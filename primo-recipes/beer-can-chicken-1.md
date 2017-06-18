@@ -6,8 +6,8 @@ This one is simple and it came out great. I cooked the chicken for 80 minutes at
 
 ## Ingredients
 * 1 or 2 whole chickens
-* Basic BBQ Rub with Rosemary and/or Thime
-* Liquid = beer + balsamic vinegar + olive oil + apple cidar vinegar
+* Basic BBQ Rub with Rosemary and/or Thyme
+* Liquid = beer + balsamic vinegar + olive oil + apple cider vinegar
   - 1/2 liquid in can
   - 1/2 liquid in a sprayer
 
