@@ -13,9 +13,12 @@
 * Veal Marsala
 * Shrimp Francese
 * Shrimp Scampi
+* Spaghetti and Meatballs with Caesar Side Salad
+* Rigatoni with Broccoli and Chicken
 
 
 ## Deserts
 
 * Cannoli
 * Chocolate Chocolate Cake
+
