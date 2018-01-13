@@ -1,6 +1,11 @@
 # Paizanos
 770-300-0250
 
+## Appetizers
+
+* Stuffed Portobello Mushrooms
+* Mussels in White Wine Sauce
+
 ## Entrees
 
 * Hell's Kitchen Pizza minus artichokes minus eggplant
