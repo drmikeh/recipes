@@ -15,6 +15,8 @@
 * Deserts
   - Flan
 * Caesar Salad
+* Guantanamera Salad
+* Guava Cheesecake
 
 ## Websites
 
