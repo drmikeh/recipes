@@ -5,6 +5,7 @@
 ## Favorites
 
 * BBQ Sandwich with plantain slices
+* Shrimp Creole
 * Chicken Breast Fillet (POLLO A LA PLANCHA)
   - Chicken breast, butterflied & marinated in Cuban mojo, grilled & garnished with caramelized onions. Served with white rice, black beans & plantain slices.
 * Extra Sides

@@ -5,10 +5,21 @@ China Garden
 2 of the Egg Roll
 
 Sizzling Rice Soup
+Wanton Soup
 Egg Drop Soup
 Chicken Noodle Soup
 
-Kid's Meal - Teriyaki Chicken with White Rice
 Orange Chicken
+Sweet and Sour Chicken
+Mongolian Beef
 House Fried Rice
 
+Kid's Meal - Teriyaki Chicken with White Rice
+
+
+2 of the Egg Roll
+Egg Drop Soup
+Sizzling Rice Soup
+Mongolian Chicken
+House Fried Rice
+Teriyaki Chicken

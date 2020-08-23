@@ -1,5 +1,7 @@
 # Paizanos
-770-300-0250
+
+website: https://paizanos.com/dinner-paizanos/
+phone: 770-300-0250
 
 ## Appetizers
 
@@ -8,10 +10,12 @@
 
 ## Entrees
 
-* Hell's Kitchen Pizza minus artichokes minus eggplant
+* Hell's Kitchen Pizza - artichokes - eggplant + pineapple
 * Caesar Salad
+* Chef Salad
+* House Salad
 * Calzone with pepperoni, sausage, onions, mushrooms
-* Kid's Chicken Tenders with Honey Mustard
+* Kid's Chicken Tenders with Fries and Honey Mustard
 * Lasagna
 * Cannelloni
 * Veal Parmigiana
@@ -19,11 +23,9 @@
 * Shrimp Francese
 * Shrimp Scampi
 * Spaghetti and Meatballs with Caesar Side Salad
-* Rigatoni with Broccoli and Chicken
-
+* Rigatoni/Penne with Broccoli and Chicken
 
 ## Deserts
 
 * Cannoli
 * Chocolate Chocolate Cake
-
